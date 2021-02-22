@@ -122,8 +122,8 @@ class CollegesList extends Component {
             { id: 4, name: 'Indian Institute of Technology Kharagpur', yearFounded: 1966, city: 'Kharagpur', state: 'West Bengal', country: 'India', noOfStudents: 16, courses: ['B.Tech', 'M.Tech', 'BCA', 'MCA', 'MSC'] },
             { id: 5, name: 'Indian Institute of Technology Kanpur', yearFounded: 1967, city: 'Kanpur', state: 'Uttar Pradesh', country: 'India', noOfStudents: 14, courses: ['B.Tech', 'MSC'] },
             { id: 6, name: 'Indian Institute of Technology Roorkee', yearFounded: 1954, city: 'Roorkee', state: 'Uttarakhand', country: 'India', noOfStudents: 12, courses: ['BSC','MSC'] },
-            { id: 7, name: 'D Y Patil College', yearFounded: 1979, city: 'Pune', state: 'Maharashtra', country: 'India', noOfStudents: 20, courses: ['B.Tech', 'M.Tech', 'BCA', 'MCA'] },
-            { id: 8, name: 'XYZ College', yearFounded: 1954, city: 'Nashik', state: 'Maharashtra', country: 'India', noOfStudents: 8, courses: ['BCA'] },
+            { id: 7, name: 'D Y Patil College', yearFounded: 1979, city: 'Mumbai', state: 'Maharashtra', country: 'India', noOfStudents: 20, courses: ['B.Tech', 'M.Tech', 'BCA', 'MCA'] },
+            { id: 8, name: 'XYZ College', yearFounded: 1954, city: 'Nashik', state: 'Maharashtra', country: 'India', noOfStudents: 8, courses: ['BCA','BSC'] },
             { id: 9, name: 'University of Lucknow', yearFounded: 1987, city: 'Lucknow', state: 'Uttar Pradesh', country: 'India', noOfStudents: 8, courses: ['ITI', 'Diploma'] },
             { id: 10, name: 'Birla Institute of Technology & Science', yearFounded: 1969, city: 'Pilani', state: 'Rajasthan', country: 'India', noOfStudents: 6, courses: ['B.Tech', 'M.Tech', 'BCA', 'MCA'] },
             { id: 11, name: 'Ajmer University', yearFounded: 1999, city: 'Ajmer', state: 'Rajasthan', country: 'India', noOfStudents: 10, courses: ['Ph.D','M.Phill'] }
