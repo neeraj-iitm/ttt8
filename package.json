@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.7.1",
     "chartist": "^0.11.4",
     "react": "^17.0.1",
+    "react-bootstrap": "^1.5.0",
     "react-bootstrap-table": "^4.3.1",
     "react-bootstrap-table-next": "^4.0.3",
     "react-bootstrap-table2-paginator": "^2.1.2",

@@ -566,6 +566,16 @@ a:focus, a:active, button::-moz-focus-inner, input::-moz-focus-inner, input[type
     min-height: 100%;
 }
 
+svg>g>g:last-child {
+    pointer-events: none !important;
+}
+
+footer {
+
+    position: absolute;
+    width: -webkit-fill-available;
+}
+
 .pieDiv {
     box-shadow: 12px 12px 22px #bdbdbd !important;
 }
